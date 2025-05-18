@@ -43,7 +43,7 @@ This tutorial project covers the following Backbone.js concepts:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/backbone-tutorial.git
+   https://github.com/iabhishek5007/Backbone.js-Learning-Playground.git
    ```
 
 2. Open the project folder:
